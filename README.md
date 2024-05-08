@@ -1,15 +1,34 @@
 ### Olá! Eu sou o Lucas Souza 👋
 
 - 🔭 Estou em busca de uma oportunidade de trabalhar como desenvolvedor back-end
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: ele/dele
+- 👨‍🎓 Estou estudando Análise e Desenvolvimento de Sistemas
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-souza04)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](santos.lucasbw@gmail.com)
-[![Blog](https://img.shields.io/website?label=MeuPortfolio&style=for-the-badge&url=https://portfolio-lucas-theta.vercel.app)](https://portfolio-lucas-theta.vercel.app)
+<a href="www.linkedin.com/in/lucas-souza04" target="_blank">
+  <img
+    aling="center"
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Linkedin"
+  />
+</a>
 
-![Lucas Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-souza04&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-souza04&layout=compact)
+<a href="santos.lucasbw@gmail.com" target="_blank">
+  <img
+    aling="center"
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
+</a>
+
+<a href="https://portfolio-lucas-theta.vercel.app" target="_blank">
+  <img
+    aling="center"
+    src="https://img.shields.io/website?label=MeuPortfolio&style=for-the-badge&url=https://portfolio-lucas-theta.vercel.app"
+    alt="Portfolio"
+  />
+</a>
+
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucas-souza04&show_icons=true&theme=dracula" alt="lucassouza's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-souza04&layout=compact&theme=dracula" alt="lucassouza's most languages"/>
 
 ### Tecnologias que uso no dia a dia
 
