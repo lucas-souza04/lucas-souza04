@@ -4,9 +4,9 @@
 - 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
 
-[![Blog](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://portfolio-lucas-eta.vercel.app)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-souza04)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](santos.lucasbw@gmail.com)
+[![Blog](https://img.shields.io/website?label=MeuPortfolio&style=for-the-badge&url=https://portfolio-lucas-theta.vercel.app)](https://portfolio-lucas-theta.vercel.app)
 
 ![Lucas Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-souza04&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-souza04&layout=compact)
