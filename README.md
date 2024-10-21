@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Souza 👋
 
-- 🔭 Estou em busca de uma oportunidade de trabalhar como desenvolvedor back-end
+- 🔭 Estou em busca de uma oportunidade de atuar como Analista de Dados ou Desenvolvedor Back-End
 - 👨‍🎓 Estou estudando Análise e Desenvolvimento de Sistemas
 
 <a href="www.linkedin.com/in/lucas-souza04" target="_blank">
@@ -42,6 +42,8 @@
   <img aling="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div><br/>
 
-Entusiasta da tecnologia. Minha curiosidade e vontade de sempre querer aprender mais, me trouxeram até esse mundo da programação.
+Sou um entusiasta da tecnologia e movido por uma curiosidade constante de aprender e evoluir. Esse desejo me levou a iniciar minha jornada na área de TI, onde busco constantemente expandir meu conhecimento.
 
-Atualmente, trabalho como auxiliar administrativo, mas quero realizar uma transição de carreira, sair da minha zona de conforto. Faço faculdade na Universidade Nove de Julho (Uninove), curso Análise e Desenvolvimento de Sistemas e estou no 3° semestre. Também faço outros cursos para complementar meu conhecimento, principalmente na área de Back-End. Procuro diariamente estar em contato com as principais linguagens de tecnologia do mercado, principalmente com: SQL, Python, PHP e HTML/CSS/JavaScript.
+Atualmente, atuo como auxiliar administrativo, mas estou em transição de carreira para a área de tecnologia. Estou cursando o 4° semestre de Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho (Uninove), além de complementar minha formação com cursos focados em Data Science, Back-End e Otimização. Procuro diariamente estar em contato com as principais linguagens e ferramentas do mercado, principalmente com: Python e Banco de Dados SQL.
+
+Estou à procura de uma oportunidade para aplicar e aprimorar minhas habilidades em desenvolvimento de software ou análise de dados, contribuindo para o sucesso de projetos inovadores.
