@@ -11,19 +11,11 @@
   />
 </a>
 
-<a href="santos.lucasbw@gmail.com" target="_blank">
+<a href="santos.lucass2004@gmail.com" target="_blank">
   <img
     aling="center"
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Gmail"
-  />
-</a>
-
-<a href="https://portfolio-lucas-theta.vercel.app" target="_blank">
-  <img
-    aling="center"
-    src="https://img.shields.io/website?label=MeuPortfolio&style=for-the-badge&url=https://portfolio-lucas-theta.vercel.app"
-    alt="Portfolio"
   />
 </a>
 
