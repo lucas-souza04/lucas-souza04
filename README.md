@@ -3,7 +3,7 @@
 - 🔭 Estou em busca de uma oportunidade de atuar como Analista de Dados ou Desenvolvedor Back-End
 - 👨‍🎓 Estou estudando Análise e Desenvolvimento de Sistemas
 
-<a href="www.linkedin.com/in/lucas-souza04" target="_blank">
+<a href="http://www.linkedin.com/in/lucas-souza04" target="_blank">
   <img
     aling="center"
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -11,7 +11,7 @@
   />
 </a>
 
-<a href="santos.lucass2004@gmail.com" target="_blank">
+<a href="mailto:santos.lucass2004@gmail.com" target="_blank">
   <img
     aling="center"
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -34,8 +34,8 @@
   <img aling="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div><br/>
 
-Sou um entusiasta da tecnologia e movido por uma curiosidade constante de aprender e evoluir. Esse desejo me levou a iniciar minha jornada na área de TI, onde busco constantemente expandir meu conhecimento.
+Sou entusiasta da tecnologia, movido por uma curiosidade constante de aprender e evoluir. Essa paixão me levou a iniciar minha jornada na área de TI, onde busco sempre expandir meus conhecimentos.
 
-Atualmente, atuo como auxiliar administrativo, mas estou em transição de carreira para a área de tecnologia. Estou cursando o 4° semestre de Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho (Uninove), além de complementar minha formação com cursos focados em Data Science, Back-End e Otimização. Procuro diariamente estar em contato com as principais linguagens e ferramentas do mercado, principalmente com: Python e Banco de Dados SQL.
+Atualmente, atuo como auxiliar administrativo, mas estou em transição para a área de tecnologia. Estou no 5º semestre de Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho (Uninove) e, para complementar minha formação, estou me aprofundando em cursos focados em Data Science, Back-End e Otimização. Sempre procuro estar em constante contato com as principais linguagens e ferramentas do mercado, especialmente Python e Banco de Dados SQL.
 
-Estou à procura de uma oportunidade para aplicar e aprimorar minhas habilidades em desenvolvimento de software ou análise de dados, contribuindo para o sucesso de projetos inovadores.
+Estou em busca de uma oportunidade para aplicar e aprimorar minhas habilidades em desenvolvimento de software ou análise de dados, contribuindo para o sucesso de projetos inovadores e desafiadores.
